@@ -3,6 +3,10 @@ github_users:
   # - alshedivat
 
 github_repos:
+  - MeanPaper/Pipeline-RV32i-Processor
+  - MeanPaper/HopeForCPP-391OS
+  - MeanPaper/391OS
+  - MeanPaper/ECE385_Escape_From_Meteorites
   # - alshedivat/al-folio
   # - twbs/bootstrap
   # - jekyll/jekyll

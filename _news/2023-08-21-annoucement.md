@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Became a course assistant in ECE 391 Computer System Engineering at UIUC.
+Became a course assistant in ECE 391 Computer Systems Engineering at UIUC.
