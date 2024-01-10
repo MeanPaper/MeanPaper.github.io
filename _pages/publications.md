@@ -7,7 +7,6 @@ nav: false
 nav_order: 2
 ---
 
-<!-- no publication yet -->
 <!-- _pages/publications.md -->
 <div class="publications">
 
