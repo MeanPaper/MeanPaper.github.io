@@ -10,4 +10,3 @@ toc:
   sidebar: left
 ---
 
-Don't have a full version of cv

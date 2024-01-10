@@ -14,5 +14,3 @@ children:
   - title: blog
     permalink: /blog/
 ---
-
-Don't have that many pages
