@@ -4,8 +4,7 @@ title: RISC-V Pipeline Proccessor
 description: A Pipeline implementation of RV32I Processor with additional advanced features
 img: assets/img/RISCV-cpu-image.png
 importance: 1
-category: projects
-# related_publications: true
+category: work
 ---
 
 # A Pipelined Implementation of the RV32I Processor
