@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 <h4><code> $ less About </code></h4>
 Hi There! 🎉
 
-I am Dongming Liu, a senior student majoring in Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I work as a class assistant in [ECE 391 Computer System Engineering](https://ece.illinois.edu/academics/courses/ece391). Currently, I am applying for a Master's degree in CompE or CompSci starting in Fall 2024.🎓
+I am Dongming Liu, a senior student majoring in Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I work as a class assistant in [ECE 391 Computer System Engineering](https://ece.illinois.edu/academics/courses/ece391). I will continue my journey at the [University of Illinois Urbana-Champaign](https://illinois.edu/) as a Master's student in Computer Engineering starting in Fall 2024. 🎓
 
 <h4><code>$ cat Interest </code></h4>
 I like computer systems and architecture, web development, and game development. Currently, I am investigating my interests in embedded systems and learning programming on Raspberry Pi and STM32.
