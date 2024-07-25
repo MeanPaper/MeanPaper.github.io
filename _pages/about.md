@@ -13,7 +13,8 @@ profile:
     <p>Zhaoqing,Guangdong,PRC</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+# latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the latest posts
 selected_papers: false # includes a list of papers marked as "selected={true}", no paper yet
 social: true # includes social icons at the bottom of the page
 ---
@@ -21,10 +22,10 @@ social: true # includes social icons at the bottom of the page
 <h4><code> $ less About </code></h4>
 Hi There! 🎉
 
-I am Dongming Liu, a senior student majoring in Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I work as a class assistant in [ECE 391 Computer System Engineering](https://ece.illinois.edu/academics/courses/ece391). I will continue my journey at the [University of Illinois Urbana-Champaign](https://illinois.edu/) as a Master's student in Computer Engineering starting in Fall 2024. 🎓
+I am Dongming Liu, a master student majoring in Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). I graduated from UIUC and received my B.S. degree in Computer Engineering in May, 2024. I used to work as a class assistant in [ECE 391 Computer System Engineering](https://ece.illinois.edu/academics/courses/ece391). Currently, I work as an Embeddded System Software Intern at [Rivian](https://rivian.com/).
 
 <h4><code>$ cat Interest </code></h4>
-I like computer systems and architecture, web development, and game development. Currently, I am investigating my interests in embedded systems and learning programming on Raspberry Pi and STM32.
+I like computer systems and architecture, web development, and game development. Currently, I am investigating my interests in embedded systems... Playing with Raspberry Pi and ESP32.
 
 What about research interests... Good question... I am still trying to find out.
 
