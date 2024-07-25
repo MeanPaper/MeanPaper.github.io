@@ -8,6 +8,8 @@ importance: 1
 category: projects
 ---
 
+Repository: <a href="https://github.com/MeanPaper/ready_to_serve_trash_bin/">https://github.com/MeanPaper/ready_to_serve_trash_bin/</a>
+
 # Ready-to-serve Trash Bin
 
 By collaboration of [Dongming Liu](https://github.com/MeanPaper), [Owen Xu](https://github.com/jinyuxu2), [Josh Litao](https://github.com/jlitao2) <br>
