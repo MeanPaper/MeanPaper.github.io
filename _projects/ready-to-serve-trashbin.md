@@ -3,6 +3,7 @@ layout: page
 title: Ready-to-Serve Tash Bin
 description: An autonomous trash bin that helps people with limited mobility collect trashes
 img: assets/img/ready-to-serve-trashbin.png
+redirect: https://github.com/MeanPaper/ready_to_serve_trash_bin/
 importance: 1
 category: projects
 ---
