@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-ECE 445 Senior Design Teaching Assistant (Fall 2024)
+ECE 445 Senior Design Project Laboratory Teaching Assistant (Fall 2024)
