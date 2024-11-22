@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 <h4><code> $ less About </code></h4>
 Hi There! 🎉
 
-I am Dongming Liu, a master student majoring in Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). I finished my B.S. degree in Computer Engineering at UIUC in May, 2024. I used to work as a class assistant in [ECE 391 Computer System Engineering](https://ece.illinois.edu/academics/courses/ece391). I worked as an Embeddded System Software Intern at [Rivian](https://rivian.com/) during the summer of 2024. Currently, I am TAing [ECE 445: Senior Project](https://courses.grainger.illinois.edu/ece445/). I would like to check out and help some cool projects students will create.
+I am Dongming Liu, a master student majoring in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). Currently, I am TAing [ECE 445: Senior Project](https://courses.grainger.illinois.edu/ece445/). I would like to check out and help some cool projects students will create.
 
 <h4><code>$ cat Interest </code></h4>
 I like computer architecture and embedded systems.
