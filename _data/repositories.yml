@@ -3,6 +3,7 @@ github_users:
   # - alshedivat
 
 github_repos:
+  - MeanPaper/ready_to_serve_trash_bin
   - MeanPaper/Pipeline-RV32i-Processor
   - MeanPaper/HopeForCPP-391OS
   - MeanPaper/391OS
