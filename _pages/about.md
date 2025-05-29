@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: dongming.png
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Urbana,IL,USA</p>
@@ -22,14 +22,14 @@ social: true # includes social icons at the bottom of the page
 <h4><code> $ less About </code></h4>
 Hi There! 🎉
 
-I am Dongming Liu, a master student majoring in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). Currently, I am TAing [ECE 385: Digital Systems Laboratory](https://ece.illinois.edu/academics/courses/ece385).
+I am Dongming Liu, a master (Master of Science) student majoring in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). Currently, I am TAing [ECE 385: Digital Systems Laboratory](https://ece.illinois.edu/academics/courses/ece385).
 
 <h4><code>$ cat Interest </code></h4>
 I like computer architecture and embedded systems.
 
-For research, I am interested in computer architecture related to AI infrastructure.
+For research, I am interested in computer architecture. Currently, I am investigating some interesting applications of CXL devices.
 
-During my free time, I like cooking, playing video games, and playing badminton.
+During my free time, I enjoy cooking, baking (a huge dessert fan), playing video games, and playing badminton.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
