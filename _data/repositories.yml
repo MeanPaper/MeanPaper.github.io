@@ -2,6 +2,8 @@ github_users:
   - MeanPaper
   # - alshedivat
 
+repo_description_lines_max: 2
+
 github_repos:
   - MeanPaper/ready_to_serve_trash_bin
   - MeanPaper/Pipeline-RV32i-Processor
