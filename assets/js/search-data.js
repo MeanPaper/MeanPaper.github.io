@@ -479,13 +479,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/riscv-pipeline/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -500,11 +493,11 @@ ninja.data = [{
           window.open("https://github.com/MeanPaper", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/dongmingliu35", "_blank");
         },
       },{
       id: 'light-theme',
