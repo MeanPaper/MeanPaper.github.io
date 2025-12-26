@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: avatar.jpg
+  image: dongming.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Urbana,IL,USA </p>
