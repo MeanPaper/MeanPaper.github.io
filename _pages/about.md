@@ -12,7 +12,7 @@ profile:
     <p>Chicago,IL,USA</p>
     <p>Zhaoqing,Guangdong,PRC</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 # latest_posts: true # includes a list of the newest posts
 latest_posts: false # includes a list of the latest posts
 selected_papers: false # includes a list of papers marked as "selected={true}", no paper yet
@@ -21,13 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 <h4><code> $ less About </code></h4>
 Hi There! 🎉
-
-I am Dongming Liu, a master (Master of Science) student majoring in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). Currently, I am TAing [ECE 385: Digital Systems Laboratory](https://ece.illinois.edu/academics/courses/ece385).
+My name is Dongming Liu, a Master of Science student studying in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). Currently, I am TAing [ECE 385: Digital Systems Laboratory](https://ece.illinois.edu/academics/courses/ece385).
 
 <h4><code>$ cat Interest </code></h4>
-I like computer architecture and embedded systems.
-
-For research, I am currently investigating some interesting applications of CXL devices.
+I like computer architecture and embedded systems. Currently, I am investigating some interesting applications of CXL devices.
 
 During my free time, I enjoy cooking, baking (a huge dessert fan), playing video games, and playing badminton.
 

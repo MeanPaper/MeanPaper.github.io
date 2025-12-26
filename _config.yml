@@ -169,7 +169,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false # set to true for news feature
+    output: true # set to true for news feature
     permalink: /news/:path/
   projects:
     output: true
