@@ -1,0 +1,23 @@
+/* Custom styles for repository cards */
+.repo-card-custom {
+  width: 50%;
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.repo-card-custom .card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.repo-card-custom .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.repo-card-custom .card-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
