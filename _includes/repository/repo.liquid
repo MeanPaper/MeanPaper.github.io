@@ -51,28 +51,16 @@
   </div>
 {% endcomment %}
 
-{%- assign repository = site.github.public_repositories | where: 'full_name', include.repository | first -%}
+{%- assign repo_parts = include.repository | split: '/' -%}
+{%- assign repo_name_raw = repo_parts[1] -%}
+{%- assign repo_name = repo_name_raw | replace: '_', ' ' | replace: '-', ' ' -%}
 
 <div class="repo card-wrapper p-2 repo-card-custom">
-  <a href="{{ repository.html_url }}" class="card-link">
+  <a href="https://github.com/{{ include.repository }}" class="card-link">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">{{ repository.name }}</h5>
-        <p class="card-text">{{ repository.description }}</p>
-        <div class="row-xs-2">
-          <div class="col">
-            <span class="repo-language-color" style="background-color: {{ site.github.language_colors[repository.language] }}"></span>
-            <span>{{ repository.language }}</span>
-          </div>
-          <div class="col">
-            <i class="fas fa-star"></i>
-            {{ repository.stargazers_count }}
-          </div>
-          <div class="col">
-            <i class="fas fa-code-branch"></i>
-            {{ repository.forks_count }}
-          </div>
-        </div>
+        <h5 class="card-title">{{ repo_name }}</h5>
+        <p class="card-text repo-full-name">{{ include.repository }}</p>
       </div>
     </div>
   </a>

@@ -7,48 +7,39 @@
 
 .repo-card-custom .card {
   border: 1px solid var(--global-divider-color);
-  border-radius: 5px;
+  border-radius: 10px; /* More rounded corners */
   transition: all 0.3s ease-in-out;
   height: 100%; /* Make cards in the same row equal height */
   display: flex;
   flex-direction: column;
+  background-color: var(--global-card-bg-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 .repo-card-custom .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
 }
 
 .repo-card-custom .card-body {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center; /* Center content vertically */
+  padding: 1.5rem; /* More padding */
 }
 
 .repo-card-custom .card-title {
-  font-size: 1.2rem;
+  font-size: 1.5rem; /* Larger title */
   font-weight: bold;
+  color: var(--global-theme-color); /* Use theme color for title */
+  margin-bottom: 0.5rem;
 }
 
-.repo-card-custom .card-text {
-  font-size: 0.9rem;
-  flex-grow: 1;
-}
-
-.repo-card-custom .row-xs-2 {
-  display: flex;
-  justify-content: space-between;
-  font-size: 0.8rem;
-  color: var(--global-text-color-light);
-}
-
-.repo-language-color {
-  display: inline-block;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  margin-right: 5px;
+.repo-card-custom .repo-full-name {
+  font-size: 1rem;
+  color: var(--global-text-color-light); /* Lighter color for subtitle */
+  margin-bottom: 0;
 }
 
 /* On smaller screens, make cards full-width */
