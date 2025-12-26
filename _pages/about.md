@@ -27,9 +27,11 @@ I am Dongming Liu, a master (Master of Science) student majoring in Electrical a
 <h4><code>$ cat Interest </code></h4>
 I like computer architecture and embedded systems.
 
-For research, I am interested in computer architecture. Currently, I am investigating some interesting applications of CXL devices.
+For research, I am currently investigating some interesting applications of CXL devices.
 
 During my free time, I enjoy cooking, baking (a huge dessert fan), playing video games, and playing badminton.
+
+<!-- <h4><code> $ cat skill </code></h4> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
