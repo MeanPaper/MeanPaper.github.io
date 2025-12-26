@@ -51,7 +51,7 @@
   </div>
 {% endcomment %}
 
-{%- assign repository = site.github.public_repositories | where: "full_name", include.repository | first -%}
+{%- assign repository = site.github.public_repositories | where: 'full_name', include.repository | first -%}
 
 <div class="repo card-wrapper p-2 repo-card-custom">
   <a href="{{ repository.html_url }}" class="card-link">
