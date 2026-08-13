@@ -26,7 +26,7 @@ latest_posts:
 
 <h4><code> $ less About </code></h4>
 
-Hi There! My name is Dongming Liu. I am working on some cool stuffs at [Marvell Technology](https://www.marvell.com/). I graduated from [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC) with a Master of Science degree in Spring, 2026. 
+Hi There! My name is Dongming Liu. I am working on some cool stuffs at [Marvell Technology](https://www.marvell.com/). I graduated from [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC) with a Master of Science degree in Spring, 2026.
 
 <h4><code>$ cat research </code></h4>
 I enjoy computer architecture and embedded systems. Currently, I am investigating some interesting applications of CXL devices.
