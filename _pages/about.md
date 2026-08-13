@@ -25,13 +25,15 @@ latest_posts:
 ---
 
 <h4><code> $ less About </code></h4>
-Hi There! 🎉
-My name is Dongming Liu, a Master of Science student studying in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). Currently, I am TAing [ECE 385: Digital Systems Laboratory](https://ece.illinois.edu/academics/courses/ece385).
 
-<h4><code>$ cat Interest </code></h4>
-I like computer architecture and embedded systems. Currently, I am investigating some interesting applications of CXL devices.
+Hi There! My name is Dongming Liu. I am working on some cool stuffs at [Marvell Technology](https://www.marvell.com/). I graduated from [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC) with a Master of Science degree in Spring, 2026. 
 
-During my free time, I enjoy cooking, baking (a huge dessert fan), playing video games, and playing badminton.
+<h4><code>$ cat research </code></h4>
+I enjoy computer architecture and embedded systems. Currently, I am investigating some interesting applications of CXL devices.
+
+<h4><code>$ cat interests </code></h4>
+During my free time, I like cooking, baking (a huge dessert fan), playing video games, and playing badminton.
+Recently, I am trying to get into 3D modeling and building some classic Gundam model kits.
 
 <!-- <h4><code> $ cat skill </code></h4> -->
 
